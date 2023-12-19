@@ -1,0 +1,23 @@
+{
+  "name": "thylo-sniff-test",
+  "version": "1.0.0",
+  "description": "A tool to analyze React components.",
+  "main": "./thyloSniffer.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kitsune21/thyloSniffer"
+  },
+  "keywords": [
+    "thylo",
+    "sniff",
+    "test",
+    "react",
+    "code"
+  ],
+  "author": "KiTsuNe21",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kitsune21/thyloSniffer/issues"
+  },
+  "homepage": "https://github.com/yourusername/your-repo#readme"
+}
