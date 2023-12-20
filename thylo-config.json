@@ -1,11 +1,12 @@
 {
   "thresholds": {
-    "props": 4,
-    "stateHooks": 5,
     "imports": 5,
+    "props": 5,
+    "stateHooks": 5,
     "lines": 200
   },
-  "outputFileName": "Thylo-Sniff-Test-Results",
+  "outputFileName": "Sniff-Test-Results",
   "checkDirectory": "./src/components/",
-  "onlyShowFailed": false
+  "onlyShowFailed": true,
+  "thresholdExceededPrefix": "!! "
 }
